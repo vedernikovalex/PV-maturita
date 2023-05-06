@@ -11,6 +11,7 @@ print(recursion(4))
 
 import itertools
 
+# brute force
 # nastavime heslo cile
 password = "summ202"
 

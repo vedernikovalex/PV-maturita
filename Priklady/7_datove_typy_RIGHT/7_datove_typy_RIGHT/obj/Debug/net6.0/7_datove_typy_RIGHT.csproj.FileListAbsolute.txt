@@ -1,0 +1,15 @@
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/7_datove_typy_RIGHT/7_datove_typy_RIGHT/bin/Debug/net6.0/7_datove_typy_RIGHT
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/7_datove_typy_RIGHT/7_datove_typy_RIGHT/bin/Debug/net6.0/7_datove_typy_RIGHT.deps.json
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/7_datove_typy_RIGHT/7_datove_typy_RIGHT/bin/Debug/net6.0/7_datove_typy_RIGHT.runtimeconfig.json
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/7_datove_typy_RIGHT/7_datove_typy_RIGHT/bin/Debug/net6.0/7_datove_typy_RIGHT.dll
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/7_datove_typy_RIGHT/7_datove_typy_RIGHT/bin/Debug/net6.0/7_datove_typy_RIGHT.pdb
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/7_datove_typy_RIGHT/7_datove_typy_RIGHT/obj/Debug/net6.0/7_datove_typy_RIGHT.csproj.AssemblyReference.cache
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/7_datove_typy_RIGHT/7_datove_typy_RIGHT/obj/Debug/net6.0/7_datove_typy_RIGHT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/7_datove_typy_RIGHT/7_datove_typy_RIGHT/obj/Debug/net6.0/7_datove_typy_RIGHT.AssemblyInfoInputs.cache
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/7_datove_typy_RIGHT/7_datove_typy_RIGHT/obj/Debug/net6.0/7_datove_typy_RIGHT.AssemblyInfo.cs
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/7_datove_typy_RIGHT/7_datove_typy_RIGHT/obj/Debug/net6.0/7_datove_typy_RIGHT.csproj.CoreCompileInputs.cache
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/7_datove_typy_RIGHT/7_datove_typy_RIGHT/obj/Debug/net6.0/7_datove_typy_RIGHT.dll
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/7_datove_typy_RIGHT/7_datove_typy_RIGHT/obj/Debug/net6.0/refint/7_datove_typy_RIGHT.dll
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/7_datove_typy_RIGHT/7_datove_typy_RIGHT/obj/Debug/net6.0/7_datove_typy_RIGHT.pdb
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/7_datove_typy_RIGHT/7_datove_typy_RIGHT/obj/Debug/net6.0/7_datove_typy_RIGHT.genruntimeconfig.cache
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/7_datove_typy_RIGHT/7_datove_typy_RIGHT/obj/Debug/net6.0/ref/7_datove_typy_RIGHT.dll
