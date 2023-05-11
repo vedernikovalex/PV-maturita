@@ -1,0 +1,15 @@
+D:\School\MATURITA\PV\Priklady\1_PV_top\1_PV_top\bin\Debug\net6.0\1_PV_top.exe
+D:\School\MATURITA\PV\Priklady\1_PV_top\1_PV_top\bin\Debug\net6.0\1_PV_top.deps.json
+D:\School\MATURITA\PV\Priklady\1_PV_top\1_PV_top\bin\Debug\net6.0\1_PV_top.runtimeconfig.json
+D:\School\MATURITA\PV\Priklady\1_PV_top\1_PV_top\bin\Debug\net6.0\1_PV_top.dll
+D:\School\MATURITA\PV\Priklady\1_PV_top\1_PV_top\bin\Debug\net6.0\1_PV_top.pdb
+D:\School\MATURITA\PV\Priklady\1_PV_top\1_PV_top\obj\Debug\net6.0\1_PV_top.csproj.AssemblyReference.cache
+D:\School\MATURITA\PV\Priklady\1_PV_top\1_PV_top\obj\Debug\net6.0\1_PV_top.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\MATURITA\PV\Priklady\1_PV_top\1_PV_top\obj\Debug\net6.0\1_PV_top.AssemblyInfoInputs.cache
+D:\School\MATURITA\PV\Priklady\1_PV_top\1_PV_top\obj\Debug\net6.0\1_PV_top.AssemblyInfo.cs
+D:\School\MATURITA\PV\Priklady\1_PV_top\1_PV_top\obj\Debug\net6.0\1_PV_top.csproj.CoreCompileInputs.cache
+D:\School\MATURITA\PV\Priklady\1_PV_top\1_PV_top\obj\Debug\net6.0\1_PV_top.dll
+D:\School\MATURITA\PV\Priklady\1_PV_top\1_PV_top\obj\Debug\net6.0\refint\1_PV_top.dll
+D:\School\MATURITA\PV\Priklady\1_PV_top\1_PV_top\obj\Debug\net6.0\1_PV_top.pdb
+D:\School\MATURITA\PV\Priklady\1_PV_top\1_PV_top\obj\Debug\net6.0\1_PV_top.genruntimeconfig.cache
+D:\School\MATURITA\PV\Priklady\1_PV_top\1_PV_top\obj\Debug\net6.0\ref\1_PV_top.dll

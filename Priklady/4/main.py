@@ -16,6 +16,8 @@ def vypocet(operace, x, y):
 pricitat_delegat = pricti_cisla
 odecitat_delegat = odecti_cisla
 
+print(pricitat_delegat(1,2))
+
 result = vypocet(pricitat_delegat, 5, 3)
 print("Přičítání "+str(result))
 
