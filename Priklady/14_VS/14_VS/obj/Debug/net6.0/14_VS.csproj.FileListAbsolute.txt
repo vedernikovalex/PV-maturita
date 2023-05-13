@@ -1,0 +1,15 @@
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/14_VS/14_VS/bin/Debug/net6.0/14_VS
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/14_VS/14_VS/bin/Debug/net6.0/14_VS.deps.json
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/14_VS/14_VS/bin/Debug/net6.0/14_VS.runtimeconfig.json
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/14_VS/14_VS/bin/Debug/net6.0/14_VS.dll
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/14_VS/14_VS/bin/Debug/net6.0/14_VS.pdb
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/14_VS/14_VS/obj/Debug/net6.0/14_VS.csproj.AssemblyReference.cache
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/14_VS/14_VS/obj/Debug/net6.0/14_VS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/14_VS/14_VS/obj/Debug/net6.0/14_VS.AssemblyInfoInputs.cache
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/14_VS/14_VS/obj/Debug/net6.0/14_VS.AssemblyInfo.cs
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/14_VS/14_VS/obj/Debug/net6.0/14_VS.csproj.CoreCompileInputs.cache
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/14_VS/14_VS/obj/Debug/net6.0/14_VS.dll
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/14_VS/14_VS/obj/Debug/net6.0/refint/14_VS.dll
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/14_VS/14_VS/obj/Debug/net6.0/14_VS.pdb
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/14_VS/14_VS/obj/Debug/net6.0/14_VS.genruntimeconfig.cache
+/Users/vedernikovalex/Documents/Git/PV-maturita/Priklady/14_VS/14_VS/obj/Debug/net6.0/ref/14_VS.dll

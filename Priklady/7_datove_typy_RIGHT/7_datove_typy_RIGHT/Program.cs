@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 class Program
 {
@@ -11,6 +12,7 @@ class Program
 
         // GEWNERICKA TRIDA
         GenericClassExample<string> genericClassString = new GenericClassExample<string>();
+        GenericClassExample<int> genericClassList = new GenericClassExample<int>();
         genericClassString.addToGenericList("Yes sir");
 
         // ENUM

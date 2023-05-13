@@ -1,14 +1,7 @@
 ﻿<Properties StartupConfiguration="{B5D86A66-A01D-4101-A3C5-500612C2ADD6}|Default">
-  <MonoDevelop.Ide.ItemProperties.7__datove__typy__RIGHT PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="7_datove_typy_RIGHT/Program.cs">
     <Files>
-      <File FileName="7_datove_typy_RIGHT/Program.cs" Line="41" Column="38" />
+      <File FileName="7_datove_typy_RIGHT/Program.cs" Line="28" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,4 +13,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.7__datove__typy__RIGHT PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -1,1 +1,1 @@
-ERROR:root:nastala velika chyba
+AHOJ
