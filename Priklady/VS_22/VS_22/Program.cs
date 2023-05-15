@@ -1,34 +1,35 @@
-﻿public class Prgram
+﻿using System;
+using System.Threading.Tasks;
+
+public class Program
 {
-    static int cislo = 0;
-    public static void Main(string[] args)
+    public static async Task Main(string[] args)
     {
-        Console.WriteLine("PUVDNI: " + cislo);
-        Thread t1 = new Thread(()=>
+        await MyMethod();
+    }
+
+    public static async Task MyMethod()
+    {
+        Console.WriteLine("MyMethod started :)");
+        Task<int> countSeconds = CountingSeconds(4);
+
+        await Task.Delay(2000);
+        Console.WriteLine("i have waited for 2 seconds");
+
+        int resultSeconds = await countSeconds;
+        Console.WriteLine(resultSeconds);
+    }
+
+    public static async Task<int> CountingSeconds(int seconds)
+    {
+        int result = 0;
+        for (int i = 0; i < seconds; i++)
         {
-            int temp = cislo;
-            temp++;
-            Thread.Sleep(1000);
-            cislo = temp;
-            Console.WriteLine("Pricetlo, cislo ted: " + cislo);
-        });
-        Thread t2 = new Thread(() =>
-        {
-            int temp = cislo;
-            temp--;
-            Thread.Sleep(1000);
-            cislo = temp;
-            Console.WriteLine("Odecetlo, cislo ted: " + cislo);
-        });
-
-        t1.Start();
-        t2.Start();
-
-        t1.Join();
-        t2.Join();
-
-        Console.WriteLine("AHA: " + cislo);
-
+            await Task.Delay(1000);
+            result++;
+            Console.WriteLine("Secconds currently: " + result);
+        }
+        return result;
     }
 
 }
