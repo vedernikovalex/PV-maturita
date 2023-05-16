@@ -3,52 +3,63 @@ using System.Collections.Generic;
 
 class Program
 {
-    public static void Main(String[] args)
+    public static void Main(string[] args)
     {
-        // GENERICKE METODY
-        string methodExample = "ahoj";
-        var result = GenericMethods.GenericMethod(methodExample);
-        Console.WriteLine(result);
+        Osoba pavel = new Osoba("Pavel", 12);
+        Zvire pes = new Zvire("Martin", "Mops");
 
-        // GEWNERICKA TRIDA
-        GenericClassExample<string> genericClassString = new GenericClassExample<string>();
-        GenericClassExample<int> genericClassList = new GenericClassExample<int>();
-        genericClassString.addToGenericList("Yes sir");
+        Console.WriteLine(pavel);
+        Console.WriteLine(pes);
 
-        // ENUM
-        EnumExample enumExample = EnumExample.Value2;
-        Console.WriteLine(((int)enumExample));
+        Rasy mops = Rasy.Mops;
+        Console.WriteLine(mops);
+        Console.WriteLine((int)mops);
+    }
+
+    public static string VypisTridy<T>(T trida)
+    {
+        return trida.ToString();
     }
 
 }
 
-// GENERICKE METODY
-public class GenericMethods
+public class Osoba
 {
-    public static T GenericMethod<T>(T genericParametre)
+    public string jmeno;
+    public int vek;
+
+    public Osoba(string jmeno, int vek)
     {
-        Console.WriteLine(typeof(T).FullName);
-        return genericParametre;
+        this.jmeno = jmeno;
+        this.vek = vek;
+    }
+
+    public override string? ToString()
+    {
+        return this.jmeno + " " + this.vek;
     }
 }
 
-// GENERICKA TRIDA
-public class GenericClassExample<T>
+public class Zvire
 {
-    List<T> genericList = new List<T>();
+    public string jmeno;
+    public string rasa;
 
-    public void addToGenericList(T attribute)
+    public Zvire(string jmeno, string rasa)
     {
-        genericList.Add(attribute);
-        Console.WriteLine(attribute);
+        this.jmeno = jmeno;
+        this.rasa = rasa;
+    }
+
+    public override string? ToString()
+    {
+        return this.jmeno + " " + this.rasa;
     }
 }
 
-// ENUM
-public enum EnumExample
+public enum Rasy
 {
-    Value1 = 5,
-    Value2,
-    Value3
+    Mops = 10,
+    Ovcak = 20,
+    Opicak
 }
-

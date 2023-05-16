@@ -1,57 +1,60 @@
-﻿public class Program
+﻿using System;
+
+class Program
 {
     public static void Main(string[] args)
     {
-        Zvire[] arrayZvirat = new Zvire[2];
         Pes pes = new Pes();
-        Kachna kachna = new Kachna();
-        arrayZvirat[0] = pes;
-        arrayZvirat[1] = kachna;
+        Slepice slepice = new Slepice();
 
-        foreach (var zvire in arrayZvirat)
+        Zvire[] zvirata = new Zvire[2];
+
+        zvirata[0] = pes;
+        zvirata[1] = slepice;
+
+        foreach (var zviratko in zvirata)
         {
-            zvire.Action();
+            zviratko.Action();
         }
+
+        pes.PocetJidel(2);
+        pes.PocetJidel(4, "svickova");
     }
 }
 
 public class Zvire
 {
-    int pocetNohou;
-    int vek;
-
+    public int pocet_nohou;
     public virtual void Action()
     {
-        Console.WriteLine("Generic zvire");
+        Console.WriteLine("Generic Zvire");
+    }
+}
+
+public class Slepice : Zvire
+{
+    public int pocet_kridel;
+    public override void Action()
+    {
+        Console.WriteLine("Kvak");
     }
 }
 
 public class Pes : Zvire
 {
-    string rasa;
-
+    public string plemeno;
     public override void Action()
     {
         Console.WriteLine("Haf");
     }
 
-    public void Prochazka()
+    public void PocetJidel(int pocet)
     {
-        Console.WriteLine("Ja rad chodim");
+        Console.WriteLine("Jim denne jidel: " + pocet);
+    }
+    public void PocetJidel(int pocet, string jidlo)
+    {
+        Console.WriteLine("Jim denne " + jidlo + " " + pocet + " krat");
     }
 
-    public void Prochazka(int pocetKamaradu)
-    {
-        Console.WriteLine("Ja rad chodim s "+pocetKamaradu+" kamaradama ven!");
-    }
-}
-
-public class Kachna : Zvire
-{
-    string barva;
-
-    public override void Action()
-    {
-        Console.WriteLine("Kvak");
-    }
 }

@@ -48,3 +48,26 @@ def measure_data_complexity():
 
 measure_time_complexity()
 measure_data_complexity()
+
+# complexity
+
+data = [1,2,3,4,5,6,7,8,9,10]
+
+print(data[4])
+
+data2 = []
+
+n = 4
+for i in range(n):
+    data2.append(i)
+
+print(data2)
+
+data3 = []
+for i in range(n):
+    data3.append([])
+    for y in range(n):
+        data3[i].append(y)
+
+print(data3)
+
